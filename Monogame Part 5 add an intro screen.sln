@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogame Part 5 add an intro screen", "Monogame Part 5 add an intro screen.csproj", "{C9ABA17B-697D-4F71-9908-FF7115B79AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9ABA17B-697D-4F71-9908-FF7115B79AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9ABA17B-697D-4F71-9908-FF7115B79AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9ABA17B-697D-4F71-9908-FF7115B79AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9ABA17B-697D-4F71-9908-FF7115B79AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01B9850D-48C6-4BBA-9DE8-EA5B42B96742}
+	EndGlobalSection
+EndGlobal
